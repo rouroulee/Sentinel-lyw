@@ -32,6 +32,7 @@ import java.lang.reflect.Method;
  *
  * @author Eric Zhao
  */
+// SentinelResource的增强实现
 @Aspect
 public class SentinelResourceAspect extends AbstractSentinelAspectSupport {
 
